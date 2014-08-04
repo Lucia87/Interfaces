@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0012,"key":"itemContainer","style":{backgroundColor:"#8A0808",borderRadius:"15",opacity:"1",font:{fontSize:"18",fontFamily:"Arial",},}}];

@@ -1,0 +1,10 @@
+"#itemContainer" : {
+	backgroundImage :"/images/fondo4.jpg",
+	//backgroundColor : "#8A0808",
+	borderRadius: "5",
+	opacity : "1",
+	font :{
+		fontSize: "20",
+   		fontFamily: "Arial"
+	}
+}

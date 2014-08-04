@@ -1,0 +1,9 @@
+".container" : {
+	layout : "vertical",
+	fullscreen: "true",
+	backgroundImage : "/default.png"
+}
+"#camaraContent" : {
+	width : "100%",
+	height : "100%"
+}

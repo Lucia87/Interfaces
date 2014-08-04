@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0011,"key":"itemContainer","style":{backgroundImage:"/images/fondo4.jpg",borderRadius:"5",opacity:"1",font:{fontSize:"20",fontFamily:"Arial",},}}];

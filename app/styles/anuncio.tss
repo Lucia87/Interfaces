@@ -1,0 +1,30 @@
+".containerAnuncio" : {
+	layout : "vertical"	
+	
+}
+"#anuncioContent" : {
+	opacity: "1",
+	backgroundImage :"/images/fondo4.jpg",
+	//backgroundColor:"#5858FA",
+	layout:"vertical"
+}
+"#titulo" : {
+	width : "100%",
+	height : "100%",
+	font :{
+		fontSize: "22",
+   		fontFamily: "Times New Roman",
+   		fontWeight:"900",
+   		//fontStyle:"Italic"
+	}
+	
+}
+"#contenido" : {
+	width : "100%",
+	height : "100%",
+	font :{
+		fontSize: "18",
+   		fontFamily: "Arial"
+	}
+}
+

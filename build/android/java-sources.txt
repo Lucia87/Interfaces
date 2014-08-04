@@ -1,0 +1,6 @@
+"/home/lu/Development/Titanium_Studio_Workspace/encartelera/build/android/gen/com/iadm/encartelera/ApplicationStylesheet.java"
+"/home/lu/Development/Titanium_Studio_Workspace/encartelera/build/android/gen/com/iadm/encartelera/AssetCryptImpl.java"
+"/home/lu/Development/Titanium_Studio_Workspace/encartelera/build/android/gen/com/iadm/encartelera/EncarteleraActivity.java"
+"/home/lu/Development/Titanium_Studio_Workspace/encartelera/build/android/gen/com/iadm/encartelera/EncarteleraAppInfo.java"
+"/home/lu/Development/Titanium_Studio_Workspace/encartelera/build/android/gen/com/iadm/encartelera/EncarteleraApplication.java"
+"/home/lu/Development/Titanium_Studio_Workspace/encartelera/build/android/gen/com/iadm/encartelera/R.java"
